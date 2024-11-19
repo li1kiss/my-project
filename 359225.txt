@@ -1,1 +1,2 @@
 To jest mój plik o numerze indeksu 359225.
+Zmiana w stosunku do pierwszej kopii
